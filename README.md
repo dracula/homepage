@@ -6,15 +6,13 @@
 
 ## Install
 
-All instructions can be found at [draculatheme.com/foobar](https://draculatheme.com/foobar).
+All instructions can be found at [draculatheme.com/homepage](https://draculatheme.com/homepage).
 
 ## Team
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
 
-| [![M Mozz](https://github.com/mmozzano) |
-| ---------------------------------------------------------------------------------------- |
-| [M Mozz](https://github.com/mmozzano)                                               |
+[M Mozzano](https://github.com/mmozzano)                                               
 
 ## Community
 
