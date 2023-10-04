@@ -18,6 +18,11 @@ Download using the [GitHub `.zip` download](https://github.com/dracula/foobar/ar
 ```yaml
 color: slate
 theme: dark
+
+background:
+  image: /images/dracula-background.png
+
+cardBlur: sm
 ```
 
 2. Add following to config/custom.css:;
@@ -39,4 +44,12 @@ theme: dark
 }
 ```
 
-3. Boom! It's working ✨
+3. Download dracula background image from Homer Dracula theme:
+[Dracula Background PNG](https://github.com/dracula/homer/blob/437b67925299b57013e5d169167096ef2d99f604/dracula-background.png)
+
+4. Copy dracula background image into your Homepage installation.  For Docker copy it into an ./images directory and mount it in your docker-compose.yaml:'
+````yaml
+    volumes:
+      - ./images:/app/public/images
+````
+5. Boom! It's working ✨
