@@ -1,4 +1,4 @@
-# Dracula for [Homepage](https://gethomepage.dev))
+# Dracula for [Homepage](https://gethomepage.dev)
 
 > A dark theme for [Homepage](https://gethomepage.dev/).
 
