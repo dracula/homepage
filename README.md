@@ -1,6 +1,6 @@
-# Dracula for [Homepage]([[https://foobar.com](https://gethomepage.dev)](https://gethomepage.dev/))
+# Dracula for [Homepage](https://gethomepage.dev))
 
-> A dark theme for [Homepage]([[https://foobar.com](https://gethomepage.dev)](https://gethomepage.dev/)).
+> A dark theme for [Homepage](https://gethomepage.dev/).
 
 ![Screenshot](./screenshot.png)
 
