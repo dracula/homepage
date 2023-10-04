@@ -1,0 +1,15 @@
+.theme-slate {
+  --color-50: 0 0 0;
+  --color-100: 0 0 0;
+  --color-200: 248 248 242;
+  --color-300: 189 147 249;
+  --color-400: 241 250 140;
+  --color-500: 0 0 0;
+  --color-600: 0 0 0;
+  --color-700: 0 0 0;
+  --color-800: 40 42 54;
+  --color-900: 68 71 90;
+
+  --color-logo-start: 80 250 123;
+  --color-logo-stop: 80 250 123;
+}

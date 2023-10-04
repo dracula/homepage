@@ -1,4 +1,4 @@
-### [Foobar](https://foobar.com)
+### [Homepage]([[https://foobar.com](https://gethomepage.dev)](https://gethomepage.dev/))
 
 #### Install using Git
 
